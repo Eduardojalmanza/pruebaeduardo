@@ -1,4 +1,4 @@
-hola esta es mi primera prueba en git hub 
+hola esta es la segunda prueba en git hub 
 
 
 saludos cordiales 
